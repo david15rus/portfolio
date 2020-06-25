@@ -118,6 +118,15 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-JS {
+  background-image: url("img/icon-JS.svg");
+  text-transform: pre;
+}
+
+.skill-PHP {
+  background-image: url("img/icon-PHP.svg");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
